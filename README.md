@@ -3,6 +3,7 @@
 ## Project Overview
 
 
+
 This project demonstrates how to host a static website using Amazon Web Services. The website files are stored in an Amazon S3 bucket and delivered globally using Amazon CloudFront as a Content Delivery Network (CDN).
 
 The website is built using HTML, CSS, and JavaScript and can be accessed through the CloudFront distribution endpoint.

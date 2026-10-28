@@ -11,6 +11,7 @@ The website is built using HTML, CSS, and JavaScript and can be accessed through
 
 ## Technologies Used
 
+
 * Amazon S3
 * Amazon CloudFront
 * HTML
